@@ -1,6 +1,6 @@
 # COVID TRACKER
 
-A new Flutter application.
+A new Flutter application to check the statewise data of India.
 
 ## Getting Started
 
