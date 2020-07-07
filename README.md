@@ -1,4 +1,4 @@
-# ayushbharat
+# COVID TRACKER
 
 A new Flutter application.
 
